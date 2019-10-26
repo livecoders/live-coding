@@ -17,7 +17,7 @@ Feeling comfortable? Then it's time to get to the next level with:
 1. Emotes - what are they?
     * What is Better Twitch TV (BTTV)? 
     * What is FrankerFaceZ (FFZ)?
-1. Creating a Twitch bot - a Right of Passage for new Live Coders is to create a Twitch chat bot
+1. [Make a Twitch bot](https://github.com/livecoders/live-coding/blob/master/twitchbot.md) - a Right of Passage for new Live Coders is to create a Twitch chat bot
 
 ### Improving Video
 1. Overlays
